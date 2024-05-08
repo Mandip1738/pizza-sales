@@ -1,34 +1,33 @@
 Hello Everyone,
-» I'm excited to share my recent SQL project titled ''PIZZA SALES ANALYSIS''.
 
-➡️ 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧 :
+I am excited to announce my recent SQL project called "Pizza Sales Analysis". This project uses SQL to analyze the dataset of pizza sales. 
 
-✤ This project uses SQL to analyze the dataset of an PIZZA SALES.
+The following tables were used in this project:
 
+- order_details
+- orders
+- pizza_types
+- pizzas
 
-➡️ 𝐓𝐚𝐛𝐥𝐞𝐬 𝐔𝐬𝐞𝐝 :
+The project aims to answer the following questions:
 
-order_details
-orders
-pizza_types
-pizzas
+1. Retrieve the total number of orders placed.
+2. Calculate the total revenue generated from pizza sales.
+3. Identify the highest-priced pizza.
+4. Identify the most common pizza size ordered.
+5. List the top 5 most ordered pizza types along with their quantities.
 
-➡️𝐐𝐮𝐞𝐫𝐢𝐞𝐬 𝐨𝐟 𝐭𝐡𝐞 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 :
+Intermediate level questions:
 
-Q1. Retrieve the total number of orders placed.
-Q2. Calculate the total revenue generated from pizza sales.
-Q3. Identify the highest-priced pizza.
-Q4. Identify the most common pizza size ordered.
-Q5. List the top 5 most ordered pizza types along with their quantities.
+6. Join the necessary tables to find the total quantity of each pizza category ordered.
+7. Determine the distribution of orders by hour of the day.
+8. Join relevant tables to find the category-wise distribution of pizzas.
+9. Group the orders by date and calculate the average number of pizzas ordered per day.
+10. Determine the top 3 most ordered pizza types based on revenue.
 
+Advanced level questions:
 
-Intermediate:
-Q6. Join the necessary tables to find the total quantity of each pizza category ordered.
-Q7. Determine the distribution of orders by hour of the day.
-Q8. Join relevant tables to find the category-wise distribution of pizzas.
-Q9. Group the orders by date and calculate the average number of pizzas ordered per day.
-Q10. Determine the top 3 most ordered pizza types based on revenue.
+11. Calculate the percentage contribution of each pizza type to total revenue.
+12. Analyze the cumulative revenue generated over time.
 
-Advanced:
-Q11. Calculate the percentage contribution of each pizza type to total revenue.
-Q12. Analyze the cumulative revenue generated over time.
+Thank you!
